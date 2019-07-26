@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/hello.dir/root/shared/v8_app/app1/src/main.cpp.o  -o obj/hello  -L/root/shared/v8_app/app1/lib -Wl,-rpath,/root/shared/v8_app/app1/lib -lv8_monolith -lpthread 

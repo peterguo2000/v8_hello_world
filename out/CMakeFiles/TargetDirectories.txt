@@ -1,0 +1,3 @@
+/root/shared/v8_app/app1/out/CMakeFiles/rebuild_cache.dir
+/root/shared/v8_app/app1/out/CMakeFiles/hello.dir
+/root/shared/v8_app/app1/out/CMakeFiles/edit_cache.dir
